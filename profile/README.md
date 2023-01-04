@@ -22,9 +22,9 @@ System for managing web applications.
  
 <br>
 
-### Dev Base
+### Dev Base:
 
-- [Doc Template](https://github.com/ProjectAdminSys/adminsys-doc-template.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ProjectAdminSys&repo=adminsys-doc-template&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=161B22&hide_border=true)](https://github.com/ProjectAdminSys/adminsys-doc-template.git)
 
 <br>
 <br>
